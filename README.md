@@ -1,0 +1,1 @@
+I accidentally fried one of the fan ports on my BTT skr mini e3 v3 board. I was in the middle of taking apart my 3D printer toolhead and a PWM controller board that I had connected to the fan port accidentally shorted due to a screw. 
