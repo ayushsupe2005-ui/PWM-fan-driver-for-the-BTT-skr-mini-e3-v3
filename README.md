@@ -23,6 +23,12 @@ I used the following components:
   <li>
     1 2n3904 NPN transistor
   </li>
+  <li>
+    Some dupont pin headers
+  </li>
+  <li>
+    Perfboard
+  </li>
 </ul>
 
 Couple things about this circuit: 
@@ -50,6 +56,22 @@ Couple things about this circuit:
   </li>
   <li>
     R2 is a pull-up resistor that allows the signal to be digital (either high or low)
+  </li>
+</ul>
+
+Couple things on simulating the circuit: 
+<ul>
+  <li>
+    I have provided the multisim file. The file is created with multisim 14.3. 
+  </li>
+  <li>
+    I simulated this with a 96 ohm load (For a 24V 6.0W fan). You can change this load to any other circuit model (like an inductor or battery to simulate back-emf). 
+  </li>
+  <li>
+    I have two different oscilloscopes connected: XSC1 measures the input and output waveforms and XSC2 measures the Vgs voltage of the IRF520N and the Base-Emitter voltage of the 2N3904 transistor. 
+  </li>
+  <li>
+    There is one function generator to simulate the 3.3V GPIO. It is already set to a 25 kHz square wave where its max and min voltages are 3.3V and 0V.  
   </li>
 </ul>
 
