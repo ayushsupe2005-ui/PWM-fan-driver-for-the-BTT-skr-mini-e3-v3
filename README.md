@@ -52,3 +52,9 @@ Couple things about this circuit:
     R2 is a pull-up resistor that allows the signal to be digital (either high or low)
   </li>
 </ul>
+
+<img width="960" height="1280" alt="photo_1_2026-09-07_12-16-27" src="https://github.com/user-attachments/assets/fb0b4f13-e69d-4b9f-9d7d-19b5c723687c" />
+
+I constructed the circuit on some perfboard and connected it to my mainboard and fan. I still have to add a case around it so that it does not get shorted, but the circuit seems to work. 
+
+This is the first time I made anything like this, so I might have overlooked something. Try at your own risk
