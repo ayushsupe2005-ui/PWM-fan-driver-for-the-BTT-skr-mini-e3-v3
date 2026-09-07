@@ -77,6 +77,6 @@ Couple things on simulating the circuit:
 
 <img width="960" height="1280" alt="photo_1_2026-09-07_12-16-27" src="https://github.com/user-attachments/assets/fb0b4f13-e69d-4b9f-9d7d-19b5c723687c" />
 
-I constructed the circuit on some perfboard and connected it to my mainboard and fan. I still have to add a case around it so that it does not get shorted, but the circuit seems to work. 
+I constructed the circuit on some perfboard (the green PCB) that I got from aliexpress and connected it to my mainboard and fan. I still have to add a case around it so that it does not get shorted, but the circuit seems to work. 
 
 This is the first time I made anything like this, so I might have overlooked something. Try at your own risk
